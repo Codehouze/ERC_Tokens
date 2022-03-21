@@ -1,9 +1,9 @@
-####BLOCKGAMES INTERNSHIP TASK 3 - TOKENS
+## BLOCKGAMES INTERNSHIP TASK 3 - TOKENS
 
-##BRIEF
+## BRIEF
 Create a simple ERC20 and ERC721 tokens that make use of inheritance and imported libraries, using any framework of your choice(remix, hardhat or truffle).
 
-##OBECTIVES
+## OBECTIVES
 Implement a standard ERC20 token with a fixed total supply of 1,000,000 tokens.
 Add a payable function "buyToken" which accepts an ethereum address, "receiver" as a parameter, and then increments the token balance of the receiver with bought tokens.
 The cost of buying tokens would be 1000 Tokens per ETH.

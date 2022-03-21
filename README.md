@@ -23,7 +23,7 @@ NFT 1: https://testnets.opensea.io/assets/0x2065c85a0465dfd953bd9cfbc42eec6c4658
 ## IPFS LINKS
 metadata: https://ipfs.io/ipfs/Qma613TmC2kF3NkG6fF8Cs4vygRz6oijRwqmuzcnSUcT89
 
-image0: https://ipfs.io/ipfs://QmarjmsJPaCTbMUbD5gK5jhiJDMRB1udNtr5kBUMSHzGcv
+image0: https://ipfs.io/ipfs/QmarjmsJPaCTbMUbD5gK5jhiJDMRB1udNtr5kBUMSHzGcv
 
 image1: https://ipfs.io/ipfs/QmcpW7XnNgtRPyvCTkvLSRm7o1XRBStaroKwa9mTWZGmNy
 

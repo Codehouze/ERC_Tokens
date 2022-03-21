@@ -17,6 +17,8 @@ Mint two NFTs with your contract
 ### ERC721: https://rinkeby.etherscan.io/verifyContract-solc?a=0x654bca95da0b84085a3EeA2066c5c8124D096ea9&c=v0.8.13%2bcommit.abaa5c0e&lictype=3
 
 ## MINTED NFTS
+NFT 0: https://testnets.opensea.io/assets/0x2065c85a0465dfd953bd9cfbc42eec6c46588075/0/
+NFT 1: https://testnets.opensea.io/assets/0x2065c85a0465dfd953bd9cfbc42eec6c46588075/1/
 
 ## IPFS LINKS
 metadata: https://ipfs.io/ipfs/Qma613TmC2kF3NkG6fF8Cs4vygRz6oijRwqmuzcnSUcT89

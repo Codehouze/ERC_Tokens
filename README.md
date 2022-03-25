@@ -23,6 +23,12 @@ image0: https://ipfs.io/ipfs/QmarjmsJPaCTbMUbD5gK5jhiJDMRB1udNtr5kBUMSHzGcv
 
 image1: https://ipfs.io/ipfs/QmcpW7XnNgtRPyvCTkvLSRm7o1XRBStaroKwa9mTWZGmNy
 
+## Metadata Structure
+{
+  "name": "Codehouze",
+  "description": "Codehouze Logo",
+  "image": "ipfs://QmarjmsJPaCTbMUbD5gK5jhiJDMRB1udNtr5kBUMSHzGcv"
+}
 
 ## VERIFIED CONTRACT ADDRESSES
 ### ERC20: https://rinkeby.etherscan.io/address/0x654bca95da0b84085a3EeA2066c5c8124D096ea9#code

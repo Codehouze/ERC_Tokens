@@ -12,10 +12,6 @@ Create an ERC721 token.
 The token metadata should be stored onchain and the image in each metadata should be hosted on IPFS.
 Mint two NFTs with your contract
 
-## VERIFIED CONTRACT ADDRESSES
-### ERC20: https://rinkeby.etherscan.io/address/0x654bca95da0b84085a3EeA2066c5c8124D096ea9#code
-### ERC721: https://rinkeby.etherscan.io/verifyContract-solc?a=0x654bca95da0b84085a3EeA2066c5c8124D096ea9&c=v0.8.13%2bcommit.abaa5c0e&lictype=3
-
 ## MINTED NFTS
 NFT 0: https://testnets.opensea.io/assets/0x2065c85a0465dfd953bd9cfbc42eec6c46588075/0/
 NFT 1: https://testnets.opensea.io/assets/0x2065c85a0465dfd953bd9cfbc42eec6c46588075/1/
@@ -28,6 +24,9 @@ image0: https://ipfs.io/ipfs/QmarjmsJPaCTbMUbD5gK5jhiJDMRB1udNtr5kBUMSHzGcv
 image1: https://ipfs.io/ipfs/QmcpW7XnNgtRPyvCTkvLSRm7o1XRBStaroKwa9mTWZGmNy
 
 
+## VERIFIED CONTRACT ADDRESSES
+### ERC20: https://rinkeby.etherscan.io/address/0x654bca95da0b84085a3EeA2066c5c8124D096ea9#code
+### ERC721: https://rinkeby.etherscan.io/verifyContract-solc?a=0x654bca95da0b84085a3EeA2066c5c8124D096ea9&c=v0.8.13%2bcommit.abaa5c0e&lictype=3
 
 
 
